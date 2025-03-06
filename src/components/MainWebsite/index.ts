@@ -1,2 +1,2 @@
-export { default as MainWebsite } from './MainWebsite';
-export * from './types';
+export { default as MainWebsite } from "./MainWebsite";
+export * from "./types";
